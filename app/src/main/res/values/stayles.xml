@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="@style/Theme.MyApplication" parent="Theme.AppCompat.Light.DarkActionBar"
+    <style name="yellow">@color/yellow</item>
+    <style name="black" type="">@color/black</item>
+    <style name="white" type="">@color/white</item>
+    <style name="transparant" type="">@color/transparant</item>
